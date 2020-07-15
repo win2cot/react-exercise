@@ -13,4 +13,5 @@ public class Book {
 	private String asin;
 	private String title;
 	private String amazonUrl;
+	private String amazonImageUrl;
 }
